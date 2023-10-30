@@ -14,7 +14,6 @@ public class Main {
         }
         System.out.println("Первая половина: " + sb1.toString());
         System.out.println("Первая половина: " + sb2.toString());
-
     }
 
 }
